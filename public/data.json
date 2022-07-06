@@ -1,0 +1,38 @@
+[
+    {
+        "nombre": "Mesa",
+        "stock": 10,
+        "precio": 10000,
+        "descuento": 0.8,
+        "categoria": "Madera",
+        "id": 1,
+        "img":""
+    },
+    {
+        "nombre": "Silla",
+        "stock": 20,
+        "precio": 2000,
+        "descuento": 0.9,
+        "categoria": "Plastico",
+        "id": 2,
+        "img": ""
+    },
+    {
+        "nombre": "Puerta",
+        "stock": 5,
+        "precio": 20000,
+        "descuento": 0.95,
+        "categoria": "Madera",
+        "id": 3,
+        "img": ""
+    },
+    {
+        "nombre": "Armario",
+        "stock": 10,
+        "precio": 10000,
+        "descuento": 0.8,
+        "categoria": "Madera",
+        "id": 4,
+        "img": ""
+    }
+]

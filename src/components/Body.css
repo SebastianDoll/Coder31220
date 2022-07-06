@@ -1,0 +1,11 @@
+.cuerpo{
+    height: 300px;
+    background-color: aqua;
+}
+
+.catalogo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
